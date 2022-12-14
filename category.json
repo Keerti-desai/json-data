@@ -1,23 +1,23 @@
 [
     {
         "id":1,
-        "category":"Nykaa So Creme! Creamy Matte Lipstick"
+        "category":"Nykaa Cosmetics"
     },
     {
         "id":2,
-        "category":"M.A.C Matte Lipstick - Velvet Teddy"
+        "category":"Nykaa Cosmetics Liquid Lipstick"
     },
     {
         "id":3,
-        "category":"Renee Cosmetics FAB5 5 in 1 Lipstick"
+        "category":"Face Masks"
     },
     {
         "id":4,
-        "category":"Charlotte Tilbury Matte Revolution"
+        "category":"Hand sanitiseres"
     },
     {
         "id":5,
-        "category":"Mamaearth Moisture Matte Longstay Lipstick With Avocado Oil"
+        "category":"Lipstick"
     }
    
 ]
